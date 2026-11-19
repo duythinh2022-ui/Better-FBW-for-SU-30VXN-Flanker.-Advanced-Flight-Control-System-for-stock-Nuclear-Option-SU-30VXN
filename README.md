@@ -5,4 +5,6 @@ AI disclosure: Coding for this mod is entirely using AI, since idk how to write 
 
 Another FCS mod with all of the goodies from my other FCS mods (F-22E, Ifrit, Revoker, Compass, Ternion), and the first one with canted 3D TVC. INDI (Incremental Non-linear Dynamic Inversion) with a control-surface and TVC allocation solver on top, carefree handling, easy post stall maneuvering, asymmetric weight compensation, envelope protection, and departure tolerance for damaged airframe.
 
+## License
 
+[PolyForm Noncommercial 1.0.0](LICENSE)
